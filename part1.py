@@ -4,6 +4,7 @@ startString = str(startNumber)
 li = list(startString)
 x = 1
 i = 1
+newtesting = 23
 gt = 1
 nr = 0
 while x == 1:
